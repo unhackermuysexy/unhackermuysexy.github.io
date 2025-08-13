@@ -218,3 +218,5 @@ Hash.Name........: bcrypt $2*$, Blowfish (Unix)
 The root password from MatterMost is the same as the local root password so we can just su to root and get the system flag.
 
 ![](/assets/images/htb-writeup-delivery/root.png)
+
+<img width="528" height="267" alt="image" src="https://github.com/user-attachments/assets/6cdb483a-daac-4d9f-994f-1eb4967d6abc" />
